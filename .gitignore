@@ -1,4 +1,6 @@
-bin/
 config.json
+bin/*
+node_modules
+**/*.class
 libs/**/node_modules
-src/**/*.class
+
